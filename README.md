@@ -91,7 +91,7 @@ The dashboard answers the following business questions:
     * Discount Percentage
     * Discount Value
     * Net Sales
-* PowerBI: [Sales Data Analysis.pbix](https://app.powerbi.com/links/52sO74jm2m?ctid=35ae1710-01c9-4681-aee5-aefcb73885b1&pbi_source=linkShare)
+* PowerBI: [Sales Data Analysis.pbix](https://app.powerbi.com/links/qU8_kMK8lE?ctid=35ae1710-01c9-4681-aee5-aefcb73885b1&pbi_source=linkShare)
 ---
 
 ## 📊 Key Features of Dashboard
